@@ -69,6 +69,8 @@ ${data.time}
 
 🔗 *Created By Jithula Bhasitha*
 
+🤟*Deployed By Nethindu Thaminda *
+
 📍 *Team Bit X*
 
 📰 *Group Link* :- https://chat.whatsapp.com/I89POhTW6cN03tC01Aoo47
